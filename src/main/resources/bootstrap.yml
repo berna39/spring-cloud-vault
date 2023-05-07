@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: spring-cloud-vault
+  cloud:
+    vault:
+      scheme: http
+      host: 127.0.0.1
+      port: 8200
+      authentication: token
+      token: hvs.H7lxUi0Uud5k8LoMEouKWMEE
